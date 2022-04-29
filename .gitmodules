@@ -1,0 +1,3 @@
+[submodule "fitapp"]
+	path = fitapp
+	url = https://github.com/SoylentGrnIzPpl/fitapp.git
